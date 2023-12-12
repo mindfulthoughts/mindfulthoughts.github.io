@@ -1,2 +1,2 @@
 # mindfulthoughts.github.io
-This Repository hosts the blogs (generated using Jekyll).
+This Repository hosts the blogs and related resources (generated using Pelican).
